@@ -9,6 +9,7 @@ Skills
 - Laravel
 - Django
 - NodeJs
+- ExpressJs
 - MongoDB
 - MySQL
 - Wordpress
