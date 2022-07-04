@@ -13,7 +13,7 @@ Skills
 - MongoDB
 - MySQL
 - Wordpress
-- Bootsrap Css
+- Bootstrap CSS
 - Vue JS
 - AngularJS
 - Jquery
