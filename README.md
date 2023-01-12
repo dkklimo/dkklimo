@@ -7,7 +7,6 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 Skills
 - Laravel
-- Django
 - NodeJs
 - ExpressJs
 - MongoDB
