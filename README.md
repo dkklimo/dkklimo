@@ -16,7 +16,6 @@ Skills
 - Bootstrap CSS
 - Tailwind CSS
 - ReactJS
-- AngularJS
 - Jquery
 - Javascript
 - HTML5 & CSS
