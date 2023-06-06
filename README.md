@@ -7,13 +7,15 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 Skills
 - Laravel
+- MERN Stack
 - NodeJs
 - ExpressJs
 - MongoDB
 - MySQL
 - Wordpress
 - Bootstrap CSS
-- Vue JS
+- Tailwind CSS
+- ReactJS
 - AngularJS
 - Jquery
 - Javascript
