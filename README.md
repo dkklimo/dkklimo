@@ -1,24 +1,16 @@
-Hi there, I am Dickson Limo.
+I'm a Fullstack Software Engineer passionate about building impactful web applications. With expertise in technologies like ReactJS, VueJS, NodeJS, Java, Kotlin, PHP (Laravel), and more, I deliver high-quality solutions with a focus on detail and excellence.
 
-Grateful to see you here!
-I am a fullstack software engineer and wordpress developer. I love progamming, speaking, sports and traveling.
+Key Skills:
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.That is why i like to make things that make difference.
+Laravel | NodeJS (Express)
+Spring Boot (Java & Kotlin)
+MongoDB | MySQL | PostgreSQL
+AWS | GCP |Digital Ocean | WordPress
+ReactJS | Redux | RTK Query
+Tailwind CSS | Bootstrap | HTML5 & CSS
+Apache Camel
 
-Skills
-- Laravel
-- MERN Stack
-- NodeJs
-- ExpressJs
-- MongoDB
-- MySQL
-- Wordpress
-- Bootstrap CSS
-- Tailwind CSS
-- ReactJS
-- Jquery
-- Javascript
-- HTML5 & CSS
+Explore my portfolio to see the positive changes I’ve contributed to: dickson-kipketer.netlify.app
 
 
 <!---
